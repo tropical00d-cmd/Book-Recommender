@@ -383,7 +383,7 @@ def display_result(result):
                 )
 
             st.markdown(
-                "**이 고민과 연결되는 부분**"
+                "**고민과 연결되는 부분**"
             )
             st.write(
                 recommendation["matched_concern"]
